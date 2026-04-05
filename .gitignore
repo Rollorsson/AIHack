@@ -3,6 +3,7 @@ __pycache__/
 *.sqlite3
 *.db
 rag/chroma_db/
+rag/ingest/sources/
 *.env
 .env
 .DS_Store

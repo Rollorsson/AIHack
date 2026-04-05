@@ -1,8 +1,9 @@
-fastapi
-uvicorn
-chromadb
-sentence-transformers
-langchain
-langchain-community
-requests
-python-dotenv
+fastapi>=0.104.0
+uvicorn>=0.24.0
+chromadb>=0.4.15
+sentence-transformers>=2.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
