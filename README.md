@@ -387,10 +387,10 @@ Este proyecto es open source y está disponible bajo la [MIT License](LICENSE).
 
 ## 📞 Contacto
 
-- **Autor:** [Tu nombre]
-- **LinkedIn:** [Tu perfil]
+- **Autor:** Rollorsson
+- **LinkedIn:** https://www.linkedin.com/in/nicolas-gaspari-049624b9/
 - **Proyecto:** AIHack Copilot v2
 
 ---
 
-*Construido con ❤️ para la comunidad de ciberseguridad. Aprendiendo haciendo proyectos reales.*
+*Aprendiendo haciendo proyectos reales.*
